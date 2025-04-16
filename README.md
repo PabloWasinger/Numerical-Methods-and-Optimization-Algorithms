@@ -4,19 +4,19 @@ Este repositorio contiene una serie de trabajos prácticos desarrollados para la
 
 ## Trabajos Prácticos
 
-### [Trabajo Práctico 1](./TP1): Esquemas de Interpolación y Resolución de Ecuaciones No Lineales
+### [Trabajo Práctico 1](./1. Interpolación-ENL.pdf): Esquemas de Interpolación y Resolución de Ecuaciones No Lineales
 
 Estudio comparativo de métodos de interpolación (Lagrange, splines cúbicos, interpolación bilineal y bicúbica) y técnicas para resolver ecuaciones no lineales mediante el método de Newton-Raphson, con aplicación a un problema de trilateración.
 
-### [Trabajo Práctico 2](./TP2): Patrones de Temperatura Global y Modelos de Dinámica Poblacional
+### [Trabajo Práctico 2](./2. Diferencias Finitas - ODEs.pdf): Patrones de Temperatura Global y Modelos de Dinámica Poblacional
 
 Análisis de series temporales de temperatura mediante diferenciación numérica y estudio de modelos poblacionales (logístico clásico y con efecto Allee) utilizando diversos métodos numéricos para resolver ecuaciones diferenciales.
 
-### [Trabajo Práctico 3](./TP3): Reducción de Dimensionalidad con SVD y PCA
+### [Trabajo Práctico 3](./3. SVD-PCA-Lineal Regression.pdf): Reducción de Dimensionalidad con SVD y PCA
 
 Aplicación de técnicas de reducción dimensional como SVD y PCA para compresión de imágenes y análisis de datos multidimensionales, incluyendo clustering y regresión lineal en espacios de dimensión reducida.
 
-### [Trabajo Práctico 4](./TP4): Gradiente Descendiente y sus Variantes
+### [Trabajo Práctico 4](./4. Gradient Descent.pdf): Gradiente Descendiente y sus Variantes
 
 Análisis del método de gradiente descendiente y sus variantes (Newton, backtracking line search, momentum) en la optimización de funciones no lineales y problemas de regresión, con evaluación de convergencia y eficiencia.
 
