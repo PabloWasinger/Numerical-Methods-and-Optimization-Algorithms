@@ -4,7 +4,7 @@ Este repositorio contiene una serie de trabajos prácticos desarrollados para la
 
 ## Trabajos Prácticos
 
-### [Trabajo Práctico 1](./Métodos%20Numéricos%20y%20Optimización%20Trabajo%20Práctico%201.pdf): Esquemas de Interpolación y Resolución de Ecuaciones No Lineales
+### [Trabajo Práctico 1](./1. Interpolación-ENL.pdf): Esquemas de Interpolación y Resolución de Ecuaciones No Lineales
 
 Estudio comparativo de métodos de interpolación (Lagrange, splines cúbicos, interpolación bilineal y bicúbica) y técnicas para resolver ecuaciones no lineales mediante el método de Newton-Raphson, con aplicación a un problema de trilateración.
 
