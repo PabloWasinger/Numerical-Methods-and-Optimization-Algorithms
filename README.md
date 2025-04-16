@@ -26,9 +26,6 @@ Análisis del método de gradiente descendiente y sus variantes (Newton, backtra
 - **Santiago Tobio** - [stobio@udesa.edu.ar](mailto:stobio@udesa.edu.ar) (TP1 y TP2)
 - **Felipe Sidiropulos** - [fisidiropuloslamouret@udesa.edu.ar](mailto:fisidiropuloslamouret@udesa.edu.ar) (TP3 y TP4)
 
-## Tecnologías Utilizadas
-
-Los trabajos fueron implementados utilizando Python y sus bibliotecas científicas (NumPy, SciPy, Pandas, Matplotlib) en entornos Jupyter Notebook.
 
 ## Licencia
 
